@@ -1,2 +1,5 @@
-# Repositório do Desafio sobre Git/GitHub
-Primeiro Desafio de Projeto - Git/GitHub
+#Desafio sobre Git/GitHub
+Repositório sobre o primeiro Desafio de Projeto - Git/GitHub
+
+##Sumário
+- Intridução ao Git/GitHub
