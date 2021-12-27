@@ -1,1 +1,3 @@
 Link para Comandos Git: https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao
+Link para comandos Git e sincronização com GitHub: https://blog.geekhunter.com.br/comandos-git-mais-utilizados/
+    OBS: Normalmente usa-se origin para <remote>
